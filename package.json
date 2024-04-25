@@ -9,7 +9,7 @@
   "author": "Mark Dumay",
   "license": "MIT",
   "devDependencies": {
-    "hugo-bin": "0.122.2"
+    "hugo-bin": "0.122.3"
   },
   "hugo-bin": {
     "buildTags": "extended"
