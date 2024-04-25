@@ -1,0 +1,17 @@
+{
+  "name": "gha-hugo-macos",
+  "version": "0.0.0",
+  "description": "Repository to test Hugo module compatibility with macOS GHA runner",
+  "main": "index.js",
+  "scripts": {
+    "env": "hugo env"
+  },
+  "author": "Mark Dumay",
+  "license": "MIT",
+  "devDependencies": {
+    "hugo-bin": "0.122.2"
+  },
+  "hugo-bin": {
+    "buildTags": "extended"
+  }
+}
