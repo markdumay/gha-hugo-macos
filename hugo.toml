@@ -1,0 +1,9 @@
+title = "gha-hugo-macos"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.120.0"
+    max = ""
+  [[module.imports]]
+    path = "github.com/gethinode/mod-fontawesome"
