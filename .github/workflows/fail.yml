@@ -1,4 +1,4 @@
-name: Go installation check
+name: Go installation check (fail)
 on:
   workflow_dispatch:
 
