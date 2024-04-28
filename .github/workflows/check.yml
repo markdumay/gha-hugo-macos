@@ -9,10 +9,10 @@ jobs:
         os:
           - ubuntu-22.04
           - ubuntu-20.04
-          - macos-14-large
+          # - macos-14-large
           - macos-14
           - macos-13
-          - macos-13-xlarge
+          # - macos-13-xlarge
           - macos-12
           - macos-11
           - windows-2022
