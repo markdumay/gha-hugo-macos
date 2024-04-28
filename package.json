@@ -4,7 +4,7 @@
   "description": "Repository to test Hugo module compatibility with macOS GHA runner",
   "main": "index.js",
   "scripts": {
-    "test": "hugo env && hugo mod vendor"
+    "test": "go version && hugo env && hugo mod vendor"
   },
   "author": "Mark Dumay",
   "license": "MIT",
